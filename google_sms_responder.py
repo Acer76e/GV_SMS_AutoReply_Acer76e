@@ -12,10 +12,10 @@ from imapclient import IMAPClient
 import email
 from email.mime.text import MIMEText
 
-REPLY_BODY = 'Your autoreply message'
+REPLY_BODY = 'AUTO REPLY: I am currently not available to answer your text at this time. I will respond as soon as administratively possible. Thank you.'
 
-GMAIL_ADDR = 'your.address@gmail.com'
-PASSWORD = 'your-gmail-password'
+GMAIL_ADDR = 'Acer76e@gmail.com'
+PASSWORD = '2005HIorlnas*2005HIorlnas*'
 
 # set up a gmail filter to add the target label to the SMS messages you want to
 # send an autoreply
